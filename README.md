@@ -1,3 +1,3 @@
 # fid
 Projects for FID
-This Repository is for the class DIG2500 Fundamentals of INteractive Design
+This Repository is for the class DIG2500 Fundamentals of Interactive Design
